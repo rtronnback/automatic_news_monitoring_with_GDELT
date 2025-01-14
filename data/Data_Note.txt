@@ -1,0 +1,1 @@
+These files are the training data used for the experiments. Ground truth values are from Media Bias Fact Check, collected in early 2023, and from Robertson et al.'s article. These are openly available, and links are in the github description.
